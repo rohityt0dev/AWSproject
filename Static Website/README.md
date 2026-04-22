@@ -108,6 +108,7 @@ This project helped me understand how cloud storage can be used to host websites
 
 **Rohit Tambadkar**
 Aspiring DevOps Engineer
-
+📝 **Read Full Blog on Hashnode:**  
+👉 https://my-devops-automation-project.hashnode.dev/project-host-a-static-website-on-amazon-web-services-s3
 ---
 
