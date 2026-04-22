@@ -70,12 +70,13 @@ User → Browser → S3 Bucket → Static Website Files
 ### 5. Access Website
 
 * Used S3 static website endpoint URL to access the website
+* http://aws-project-website-rohit.s3-website.ap-south-1.amazonaws.com
 
 ---
 
 ## 📸 Project Screenshots
 
-*Add screenshots here (S3 bucket, website output, settings)*
+
 
 ---
 
