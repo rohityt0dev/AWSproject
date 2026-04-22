@@ -61,7 +61,7 @@ User → Browser → S3 Bucket → Static Website Files
       "Effect": "Allow",
       "Principal": "*",
       "Action": ["s3:GetObject"],
-      "Resource": ["arn:aws:s3:::YOUR-BUCKET-NAME/*"]
+      "Resource": ["arn:aws:s3:::aws-project-website-rohit/*"]
     }
   ]
 }
