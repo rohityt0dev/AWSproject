@@ -76,8 +76,10 @@ User → Browser → S3 Bucket → Static Website Files
 
 ## 📸 Project Screenshots
 
-
-
+![alt](https://github.com/rohityt0dev/AWSproject/blob/15bd275a5dac430ba23e6bb77c5ec1a03700a016/Static%20Website/upload.png)
+![alt](https://github.com/rohityt0dev/AWSproject/blob/15bd275a5dac430ba23e6bb77c5ec1a03700a016/Static%20Website/static%20website.png)
+![alt](https://github.com/rohityt0dev/AWSproject/blob/15bd275a5dac430ba23e6bb77c5ec1a03700a016/Static%20Website/url.png)
+![alt](https://github.com/rohityt0dev/AWSproject/blob/15bd275a5dac430ba23e6bb77c5ec1a03700a016/Static%20Website/index.html.png)
 ---
 
 ## 🚀 Future Improvements
