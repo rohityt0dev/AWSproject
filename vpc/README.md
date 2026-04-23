@@ -10,7 +10,7 @@ The architecture separates resources into **public and private subnets**, follow
 
 ## 🧱 Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](https://github.com/rohityt0dev/AWSproject/blob/1a04b8857bf8e60d8062625106a216c814fc2c7e/vpc/vpc-project.png)
 
 ---
 
@@ -159,17 +159,6 @@ ping google.com
 * Public subnet → Load Balancer / Web Tier
 * Private subnet → Application + Database Tier
 * Secure multi-tier architecture used in production systems
-
----
-
-## 📂 Folder Structure
-
-```
-aws-vpc-project/
-│
-├── architecture.png
-├── README.md
-```
 
 ---
 
